@@ -33,9 +33,7 @@ Last updated: May 2026
 - Upon deletion, all your data will be permanently removed
 
 ## Children's Privacy
-Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13.
-In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers.
-If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.
+We care about the safety and privacy of children. Our app is designed to be safe for users of all ages. We do not knowingly collect personal information from children under the age of 13 without verifiable parental consent, except as permitted by applicable law (such as COPPA and GDPR). All data collected is used solely to provide and improve the app's functionality (e.g., syncing mood data between partners). If a parent or guardian becomes aware that their child has provided us with personal information, they should contact us immediately, and we will take steps to remove such information from our servers.
   
 ## Contact
 Email: lastlevelgames@vk.com
